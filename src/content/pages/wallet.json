@@ -1,0 +1,52 @@
+{
+  "SHOP_ITEMS": [
+    {
+      "id": "xp_boost_small",
+      "name": "XP Boost (Small)",
+      "desc": "+50 XP instantly",
+      "cost": 100,
+      "icon": "⚡",
+      "category": "upgrade"
+    },
+    {
+      "id": "xp_boost_large",
+      "name": "XP Boost (Large)",
+      "desc": "+200 XP instantly",
+      "cost": 350,
+      "icon": "💥",
+      "category": "upgrade"
+    },
+    {
+      "id": "name_change",
+      "name": "Name Change",
+      "desc": "Change your display name",
+      "cost": 500,
+      "icon": "✏️",
+      "category": "cosmetic"
+    },
+    {
+      "id": "avatar_frame_gold",
+      "name": "Gold Avatar Frame",
+      "desc": "Exclusive gold border",
+      "cost": 750,
+      "icon": "🖼️",
+      "category": "cosmetic"
+    },
+    {
+      "id": "event_ticket",
+      "name": "Event Ticket",
+      "desc": "Enter a special event",
+      "cost": 1000,
+      "icon": "🎟️",
+      "category": "event"
+    },
+    {
+      "id": "power_point",
+      "name": "Power Point",
+      "desc": "+1 RPG power point",
+      "cost": 200,
+      "icon": "🔮",
+      "category": "rpg"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "header": {
+    "badge": "1,080 Collectibles · 10 Editions",
+    "heading": "All Coins",
+    "subheading": "Every collectible in The Token Game. Discover, explore, and build your collection.",
+    "statTotalLabel": "Total Coins",
+    "statPermanentLabel": "Permanent",
+    "statLiveLabel": "In Collection"
+  },
+  "tienko": {
+    "flagshipBadge": "Flagship Utility Token",
+    "buyCtaLabel": "Buy $TEN on Jupiter"
+  },
+  "permanentSection": {
+    "heading": "Permanent Collection"
+  },
+  "moreSection": {
+    "heading": "More Coins"
+  },
+  "undiscoveredLabel": "Undiscovered",
+  "discoverLabel": "Discover"
+}

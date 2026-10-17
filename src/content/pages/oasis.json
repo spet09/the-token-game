@@ -1,0 +1,104 @@
+{
+  "hero": {
+    "badge": "The Nexus",
+    "badgeCurrency": "Powered by USGC",
+    "headline": "One universe.",
+    "headlineAccent": "Infinite possibilities.",
+    "body": "The Nexus is a massive interconnected gaming universe built on Solana. Three worlds. Sixteen zones. One unified economy powered by USGC. Every coin you hold is a key. Every action earns you something real."
+  },
+  "economy": {
+    "primaryCurrencyLabel": "Primary currency:",
+    "primaryCurrencyValue": "USGC",
+    "utilityLabel": "Utility token:",
+    "utilityValue": "$TEN (TIENKO)",
+    "walletLabel": "Wallet:",
+    "walletValue": "Tienko Wallet",
+    "networkLabel": "Network:",
+    "networkValue": "Solana Mainnet"
+  },
+  "worlds": {
+    "badge": "Three worlds. One Nexus.",
+    "headline": "The interconnected universe",
+    "body": "Each world is a distinct game experience — but they share the same economy, the same wallet, and the same player identity. Assets earned in one world carry weight in all others."
+  },
+  "editions": {
+    "headline": "16 edition zones — all live",
+    "body": "Every edition is a fully playable zone with its own seasonal coins, quests, and War Room battle history. 1,500+ coins across the entire map."
+  },
+  "specialCoins": {
+    "badge": "Player-owned assets",
+    "headline": "Special coin types",
+    "body": "Beyond seasonal coins, the Nexus has five categories of special assets. Each one is earned — never bought directly — and carries real utility across all zones."
+  },
+  "pillars": {
+    "headline": "Five ways to play",
+    "body": "Every pillar is live and playable right now. Mix them or master one — your Nexus, your rules."
+  },
+  "interop": {
+    "headline": "Cross-zone interoperability",
+    "body": "Assets earned in one zone carry real weight in others. The Nexus is one economy — not a collection of isolated games."
+  },
+  "community": {
+    "headline": "Community hubs",
+    "body": "The social layer of the Nexus. Connect with other players, form alliances, and coordinate across zones."
+  },
+  "identity": {
+    "badge": "Tienko Wallet",
+    "headline": "Your identity. Your assets. Your Nexus.",
+    "body": "Every coin, every Key, every Artifact is stored in your Tienko Wallet — a Solana-native wallet that travels with you across all three worlds. Your collection tier, RPG character, War Room rank, and journey stage are all tied to one persistent identity.",
+    "features": [
+      {
+        "id": "f1",
+        "text": "All assets player-owned on Solana mainnet"
+      },
+      {
+        "id": "f2",
+        "text": "Keys and Artifacts are non-fungible and tradeable"
+      },
+      {
+        "id": "f3",
+        "text": "Leaderboard rank persists across seasons"
+      },
+      {
+        "id": "f4",
+        "text": "RPG character and XP carry across all zones"
+      }
+    ],
+    "links": [
+      {
+        "id": "l1",
+        "label": "Create your character",
+        "desc": "Choose a class, set your allegiance, unlock abilities",
+        "href": "/rpg",
+        "icon": "⚔️"
+      },
+      {
+        "id": "l2",
+        "label": "View your journey",
+        "desc": "XP stages, badges, and progression milestones",
+        "href": "/journey",
+        "icon": "🗺️"
+      },
+      {
+        "id": "l3",
+        "label": "Check your wallet",
+        "desc": "Coin balance, transaction history, withdrawals",
+        "href": "/wallet",
+        "icon": "💼"
+      },
+      {
+        "id": "l4",
+        "label": "Stake your tokens",
+        "desc": "USGC, NYC, TIEN — earn yield on your holdings",
+        "href": "/staking",
+        "icon": "📈"
+      }
+    ]
+  },
+  "cta": {
+    "headline": "The Nexus is open.",
+    "body": "Your first coin is your first key. The rest of the universe opens from there.",
+    "primaryLabel": "Start Playing",
+    "secondaryLabel": "Browse All Coins"
+  }
+}

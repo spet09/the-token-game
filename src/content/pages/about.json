@@ -1,0 +1,326 @@
+{
+  "hero": {
+    "eyebrow": "About The Token Game",
+    "headline": "The world's first seasonal meme coin ecosystem",
+    "subheadline": "212 collectible coins. 16 global editions. One interconnected economy built on Solana — where culture, timing, and community determine value."
+  },
+  "mission": {
+    "heading": "What is The Token Game?",
+    "body": [
+      {
+        "id": "m1",
+        "text": "The Token Game is a Web3 gaming platform built on Solana where every coin tells a story. Each of the 212 coins is tied to a real-world cultural moment — a holiday, a season, a shared human experience — and launches on Raydium during a specific window in the seasonal calendar."
+      },
+      {
+        "id": "m2",
+        "text": "Miss the window and the coin is gone. Catch it early and you're holding a piece of cultural history. The game rewards attention, timing, and community — not just capital."
+      },
+      {
+        "id": "m3",
+        "text": "Built by the Tienko ecosystem, The Token Game is one of seven interconnected platforms sharing a unified coin economy, XP system, and player identity layer."
+      }
+    ]
+  },
+  "coinEconomy": {
+    "heading": "The 8-Coin Economy",
+    "subheading": "A crafting hierarchy where coins combine into rarer, more powerful assets",
+    "tiers": [
+      {
+        "id": "t1",
+        "tier": "Tier 1",
+        "name": "TKN",
+        "symbol": "TKN",
+        "description": "The base currency of The Token Game. Earned through gameplay, quests, and seasonal participation.",
+        "color": "#BF5FFF"
+      },
+      {
+        "id": "t2",
+        "tier": "Tier 2",
+        "name": "GOLD",
+        "symbol": "GOLD",
+        "description": "Crafted from 100 TKN. Represents sustained engagement and early adoption.",
+        "color": "#FFD700",
+        "craftRate": "100 TKN = 1 GOLD"
+      },
+      {
+        "id": "t3",
+        "tier": "Tier 3",
+        "name": "OASIS",
+        "symbol": "OASIS",
+        "description": "Crafted from 1,000 GOLD. A rare asset held by dedicated long-term players.",
+        "color": "#5FFFFF",
+        "craftRate": "1,000 GOLD = 1 OASIS"
+      },
+      {
+        "id": "t4",
+        "tier": "Tier 4",
+        "name": "USGC",
+        "symbol": "USGC",
+        "description": "The apex crafted coin. Crafted from 10 OASIS. Eligible for the highest-yield staking pool.",
+        "color": "#9fff5f",
+        "craftRate": "10 OASIS = 1 USGC"
+      },
+      {
+        "id": "t5",
+        "tier": "Special",
+        "name": "XP Coin",
+        "symbol": "XP",
+        "description": "Non-tradeable. Earned through quests, streaks, and platform activity. Powers the Journey progression system.",
+        "color": "#ff5fef"
+      },
+      {
+        "id": "t6",
+        "tier": "Special",
+        "name": "ARTFCT",
+        "symbol": "ARTFCT",
+        "description": "Artifact coin. Non-craftable. Awarded for rare in-game achievements and community milestones.",
+        "color": "#FFD700"
+      },
+      {
+        "id": "t7",
+        "tier": "Special",
+        "name": "NTN",
+        "symbol": "NTN",
+        "description": "Nation coin. Non-craftable. Tied to War Room nation performance and seasonal rankings.",
+        "color": "#BF5FFF"
+      },
+      {
+        "id": "t8",
+        "tier": "Special",
+        "name": "CUR8",
+        "symbol": "CUR8",
+        "description": "Curator coin. Non-craftable. Earned through content curation and community contribution.",
+        "color": "#ff5fef"
+      }
+    ]
+  },
+  "editions": {
+    "heading": "16 Global Editions",
+    "subheading": "Each edition is a curated collection of 96 coins tied to the culture, seasons, and moments of a specific region",
+    "list": [
+      {
+        "id": "e1",
+        "name": "Global",
+        "flag": "🌐",
+        "coins": 96,
+        "theme": "Universal human experiences"
+      },
+      {
+        "id": "e2",
+        "name": "Australia",
+        "flag": "🇦🇺",
+        "coins": 96,
+        "theme": "Aussie culture, sport & seasons"
+      },
+      {
+        "id": "e3",
+        "name": "China",
+        "flag": "🇨🇳",
+        "coins": 96,
+        "theme": "Festivals, traditions & lunar calendar"
+      },
+      {
+        "id": "e4",
+        "name": "USA",
+        "flag": "🇺🇸",
+        "coins": 96,
+        "theme": "American holidays & pop culture"
+      },
+      {
+        "id": "e5",
+        "name": "Europe",
+        "flag": "🇪🇺",
+        "coins": 96,
+        "theme": "European seasons & celebrations"
+      },
+      {
+        "id": "e6",
+        "name": "Africa",
+        "flag": "🌍",
+        "coins": 96,
+        "theme": "Pan-African culture & heritage"
+      },
+      {
+        "id": "e7",
+        "name": "Russia",
+        "flag": "🇷🇺",
+        "coins": 96,
+        "theme": "Russian traditions & seasons"
+      },
+      {
+        "id": "e8",
+        "name": "India",
+        "flag": "🇮🇳",
+        "coins": 96,
+        "theme": "Indian festivals & cultural moments"
+      },
+      {
+        "id": "e9",
+        "name": "Japan",
+        "flag": "🇯🇵",
+        "coins": 96,
+        "theme": "Japanese seasons & traditions"
+      },
+      {
+        "id": "e10",
+        "name": "South America",
+        "flag": "🌎",
+        "coins": 96,
+        "theme": "Latin culture, carnival & heritage"
+      },
+      {
+        "id": "e11",
+        "name": "Middle East",
+        "flag": "🌙",
+        "coins": 96,
+        "theme": "MENA culture & Islamic calendar"
+      },
+      {
+        "id": "e12",
+        "name": "Oceania",
+        "flag": "🌊",
+        "coins": 96,
+        "theme": "Pacific island cultures & seasons"
+      },
+      {
+        "id": "e13",
+        "name": "North America",
+        "flag": "🍁",
+        "coins": 96,
+        "theme": "Canadian culture & seasons"
+      },
+      {
+        "id": "e14",
+        "name": "Central America",
+        "flag": "🌺",
+        "coins": 96,
+        "theme": "Mesoamerican culture & traditions"
+      },
+      {
+        "id": "e15",
+        "name": "Arctic",
+        "flag": "🧊",
+        "coins": 96,
+        "theme": "Arctic wildlife & polar seasons"
+      },
+      {
+        "id": "e16",
+        "name": "Antarctica",
+        "flag": "🐧",
+        "coins": 96,
+        "theme": "Antarctic science & wildlife"
+      }
+    ]
+  },
+  "systems": {
+    "heading": "Platform Systems",
+    "items": [
+      {
+        "id": "s1",
+        "icon": "🗺️",
+        "name": "Journey & XP",
+        "description": "Progress through 7 stages from Wanderer to Legend. Complete quests, hold coins, and earn XP to unlock exclusive rewards and recognition."
+      },
+      {
+        "id": "s2",
+        "icon": "⚗️",
+        "name": "Coin Crafting",
+        "description": "Combine lower-tier coins into rarer assets using the crafting system. Forward and reverse calculators help you plan your strategy."
+      },
+      {
+        "id": "s3",
+        "icon": "⚔️",
+        "name": "War Room",
+        "description": "19 nations compete in real-time. Stake your loyalty, earn nation coins, and help your region climb the global rankings."
+      },
+      {
+        "id": "s4",
+        "icon": "📅",
+        "name": "Seasonal Calendar",
+        "description": "130+ coin launch windows across 10 seasons. Every coin has a specific window — miss it and it's gone forever."
+      },
+      {
+        "id": "s5",
+        "icon": "🎯",
+        "name": "Quests",
+        "description": "30 quests across 6 categories and 4 tiers. Complete challenges to earn XP, coins, and exclusive badges."
+      },
+      {
+        "id": "s6",
+        "icon": "💎",
+        "name": "Staking",
+        "description": "Stake USGC (18.5% APY), NYC (24% APY), and TIEN (32% APY) to earn passive yield on your holdings."
+      },
+      {
+        "id": "s7",
+        "icon": "📚",
+        "name": "Backstories",
+        "description": "Every coin has a lore entry. 1,582 backstories explore the cultural, historical, and mythological roots of each coin."
+      },
+      {
+        "id": "s8",
+        "icon": "🏆",
+        "name": "Leaderboards",
+        "description": "Compete on the Season Leaderboard, Coin Leaderboard, and Hall of Legends. The best players are immortalised on-chain."
+      }
+    ]
+  },
+  "tienko": {
+    "heading": "The Tienko Ecosystem",
+    "subheading": "The Token Game is one of seven platforms sharing a unified economy",
+    "body": [
+      {
+        "id": "tk1",
+        "text": "Tienko is the parent ecosystem behind The Token Game. Across seven interconnected platforms, players share a single wallet identity, coin balance, and XP profile. Activity on any platform contributes to your standing across all of them."
+      },
+      {
+        "id": "tk2",
+        "text": "The ecosystem is built on Solana for speed and low fees, with Raydium as the primary liquidity layer for all tradeable coins. Every coin launched through The Token Game is a real Solana token with a live market."
+      }
+    ]
+  },
+  "stats": [
+    {
+      "id": "st1",
+      "value": "212",
+      "label": "Total coins"
+    },
+    {
+      "id": "st2",
+      "value": "16",
+      "label": "Global editions"
+    },
+    {
+      "id": "st3",
+      "value": "1,582",
+      "label": "Coin backstories"
+    },
+    {
+      "id": "st4",
+      "value": "10",
+      "label": "Seasons"
+    },
+    {
+      "id": "st5",
+      "value": "30",
+      "label": "Quests"
+    },
+    {
+      "id": "st6",
+      "value": "19",
+      "label": "War Room nations"
+    }
+  ],
+  "cta": {
+    "heading": "Ready to play?",
+    "subheading": "Connect your Solana wallet and start collecting.",
+    "primaryLabel": "Browse all coins",
+    "primaryHref": "/coins",
+    "secondaryLabel": "View the calendar",
+    "secondaryHref": "/calendar"
+  },
+  "seo": {
+    "title": "About The Token Game — Web3 Seasonal Meme Coin Ecosystem on Solana",
+    "description": "Learn about The Token Game: 212 seasonal meme coins across 16 global editions, an 8-coin crafting economy, XP journey system, War Room, staking pools, and 1,582 coin backstories — all built on Solana."
+  }
+}

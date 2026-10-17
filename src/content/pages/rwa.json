@@ -1,0 +1,94 @@
+{
+  "RWA_REGIONS": [
+    {
+      "flag": "🌎",
+      "name": "South America",
+      "href": "/southamerica",
+      "accent": "#10B981",
+      "commodity": "Coffee",
+      "commodityDetail": "The world's most traded agricultural commodity — Brazil alone produces 40% of global supply.",
+      "iconBg": "#3D1F12",
+      "id": "lIz7JeN_GkeJxE_MYu3A3"
+    },
+    {
+      "flag": "🇺🇸",
+      "name": "USA",
+      "href": "/usa",
+      "accent": "#3B82F6",
+      "commodity": "Corn",
+      "commodityDetail": "The backbone of American agriculture — from ethanol to livestock feed to the global food supply.",
+      "iconBg": "#5A3A00",
+      "id": "4a799X3ou_fi0SPrJJURg"
+    },
+    {
+      "flag": "🇦🇺",
+      "name": "Australia",
+      "href": "/australia",
+      "accent": "#00C9FF",
+      "commodity": "Wheat",
+      "commodityDetail": "Australia is one of the world's top wheat exporters — the golden grain of the Lucky Country.",
+      "iconBg": "#4A3800",
+      "id": "EvlZreBtwuSNv3kEG8SUk"
+    },
+    {
+      "flag": "🇪🇺",
+      "name": "Europe",
+      "href": "/europe",
+      "accent": "#FBBF24",
+      "commodity": "Wine / Wheat",
+      "commodityDetail": "Europe's twin pillars — the vineyards of France and Italy, the wheat fields of Ukraine and France.",
+      "iconBg": "#3D0F4A",
+      "id": "cTT1s7cNcoCgeIK5jmFFH"
+    },
+    {
+      "flag": "🌍",
+      "name": "Africa",
+      "href": "/africa",
+      "accent": "#F97316",
+      "commodity": "Cocoa / Coffee",
+      "commodityDetail": "West Africa produces 70% of the world's cocoa. Ethiopia is the birthplace of coffee itself.",
+      "iconBg": "#3D1A00",
+      "id": "blItSV2GTKLMYNaBeiqMM"
+    },
+    {
+      "flag": "🇷🇺",
+      "name": "Russia",
+      "href": "/russia",
+      "accent": "#EF4444",
+      "commodity": "Wheat / Oil",
+      "commodityDetail": "Russia is the world's largest wheat exporter and a dominant force in global energy markets.",
+      "iconBg": "#1A1A2E",
+      "id": "1t4D_tWw5_HnJnculDMKV"
+    },
+    {
+      "flag": "🇮🇳",
+      "name": "India",
+      "href": "/india",
+      "accent": "#F59E0B",
+      "commodity": "Rice / Tea",
+      "commodityDetail": "India feeds the world with rice and brews its soul into tea — two commodities that define a civilisation.",
+      "iconBg": "#3A2A00",
+      "id": "LKwRDov-sid4UgJda1uJ7"
+    },
+    {
+      "flag": "🇯🇵",
+      "name": "Japan",
+      "href": "/japan",
+      "accent": "#EC4899",
+      "commodity": "Tea / Fish",
+      "commodityDetail": "Japan's culinary identity is inseparable from its tea ceremony and its mastery of the sea's harvest.",
+      "iconBg": "#1A3A1A",
+      "id": "QsJmUnAifX2azLadPSHDd"
+    },
+    {
+      "flag": "🇨🇳",
+      "name": "China",
+      "href": "/china",
+      "accent": "#FF4444",
+      "commodity": "Rice / Tea",
+      "commodityDetail": "The origin of tea and the world's largest rice producer — China's commodities shaped global civilisation.",
+      "iconBg": "#3A0A0A",
+      "id": "Mhq48tzS-lV6l93WUF_jX"
+    }
+  ]
+}

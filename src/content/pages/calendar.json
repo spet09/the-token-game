@@ -1,0 +1,26 @@
+{
+  "hero": {
+    "eyebrow": "Seasonal Calendar",
+    "headline": "Every coin has its season.",
+    "body": "The Nexus runs on a living calendar. Seasons activate coins, coins unlock quests, and quests reward the dedicated. Know what's live, what's coming, and what you're missing."
+  },
+  "tabs": {
+    "overview": "Overview",
+    "month": "Month view",
+    "seasons": "All seasons"
+  },
+  "activeLabel": "Active now",
+  "upcomingLabel": "Coming soon",
+  "noActive": "No coins active right now — check back soon.",
+  "noUpcoming": "Nothing on the horizon yet.",
+  "progressLabel": "Season progress",
+  "coinsLabel": "coins active",
+  "daysLeft": "days left",
+  "daysUntil": "days away",
+  "cta": {
+    "headline": "Collect before the season ends.",
+    "body": "Seasonal coins are only active during their window. Miss the window, miss the coin.",
+    "primaryLabel": "Browse all coins",
+    "secondaryLabel": "View quests"
+  }
+}

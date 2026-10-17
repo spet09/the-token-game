@@ -1,0 +1,138 @@
+{
+  "hero": {
+    "eyebrow": "Community Hub",
+    "headline": "Play together. Build together.",
+    "body": "The Token Game is more than coins — it's a living community of collectors, traders, and zone champions. Find your zone, claim your identity, and connect with players across all 16 editions."
+  },
+  "stats": [
+    {
+      "id": "s1",
+      "label": "Edition zones",
+      "value": "16"
+    },
+    {
+      "id": "s2",
+      "label": "Coins in circulation",
+      "value": "1,500+"
+    },
+    {
+      "id": "s3",
+      "label": "Community channels",
+      "value": "3"
+    },
+    {
+      "id": "s4",
+      "label": "Seasons active",
+      "value": "1"
+    }
+  ],
+  "zoneHubs": {
+    "headline": "Zone community hubs",
+    "body": "Every edition zone has its own community. Join the hub for your zone to get zone-specific news, seasonal drops, and War Room strategy."
+  },
+  "playerIdentity": {
+    "headline": "Your player identity",
+    "body": "Your Tienko Wallet is your passport across the entire universe. Every coin you hold, every quest you complete, and every zone you conquer is permanently recorded on-chain.",
+    "features": [
+      {
+        "id": "f1",
+        "icon": "wallet",
+        "title": "Tienko Wallet",
+        "description": "Your on-chain identity. Holds all coins, XP, and achievements across every zone."
+      },
+      {
+        "id": "f2",
+        "icon": "shield",
+        "title": "RPG Character",
+        "description": "Choose your class, unlock abilities, and level up through the five character tiers."
+      },
+      {
+        "id": "f3",
+        "icon": "map",
+        "title": "Journey Stages",
+        "description": "Progress through 7 journey stages from Newcomer to Legend. Each stage unlocks new privileges."
+      },
+      {
+        "id": "f4",
+        "icon": "trophy",
+        "title": "Leaderboard Rank",
+        "description": "Your coin holdings rank you globally and within each zone. Top holders earn seasonal rewards."
+      },
+      {
+        "id": "f5",
+        "icon": "star",
+        "title": "Artifact Status",
+        "description": "Artifact Coins are permanent on-chain trophies. Holders are permanently listed in the Hall of Legends."
+      },
+      {
+        "id": "f6",
+        "icon": "zap",
+        "title": "Season Rewards",
+        "description": "Complete seasonal objectives to earn exclusive coins, USGC bonuses, and zone badges."
+      }
+    ]
+  },
+  "socialHubs": {
+    "headline": "Connect with the community",
+    "body": "Join the conversation across all platforms. Get alpha, share strategies, and stay ahead of seasonal drops.",
+    "channels": [
+      {
+        "id": "c1",
+        "name": "Discord",
+        "description": "The main hub. Zone channels, announcements, trading floor, and live events.",
+        "status": "live",
+        "cta": "Join Discord",
+        "url": "https://discord.gg/thetokengame",
+        "icon": "discord"
+      },
+      {
+        "id": "c2",
+        "name": "Grid Node",
+        "description": "Decentralised community infrastructure. Node operators earn rewards for hosting zone data.",
+        "status": "coming_soon",
+        "cta": "Coming Soon",
+        "url": "#",
+        "icon": "grid"
+      },
+      {
+        "id": "c3",
+        "name": "Solchat.me",
+        "description": "On-chain messaging for Solana wallets. Chat directly with other players wallet-to-wallet.",
+        "status": "coming_soon",
+        "cta": "Coming Soon",
+        "url": "#",
+        "icon": "message"
+      },
+      {
+        "id": "c4",
+        "name": "X / Twitter",
+        "description": "Breaking news, seasonal announcements, and community highlights.",
+        "status": "live",
+        "cta": "Follow @TokenGame",
+        "url": "https://x.com/thetokengame",
+        "icon": "twitter"
+      },
+      {
+        "id": "c5",
+        "name": "Telegram",
+        "description": "Fast updates, price alerts, and community polls. The quickest way to stay in the loop.",
+        "status": "live",
+        "cta": "Join Telegram",
+        "url": "https://t.me/thetokengame",
+        "icon": "send"
+      }
+    ]
+  },
+  "hallOfLegends": {
+    "headline": "Hall of Legends",
+    "body": "The top collectors, zone champions, and Artifact Coin holders. Updated every season.",
+    "comingSoon": true,
+    "comingSoonText": "Season 1 rankings will be revealed at season close. Keep collecting."
+  },
+  "cta": {
+    "headline": "Ready to find your zone?",
+    "body": "Pick an edition, collect your first coin, and join the zone community. Your journey starts with one token.",
+    "primaryLabel": "Browse all editions",
+    "secondaryLabel": "How to play"
+  }
+}

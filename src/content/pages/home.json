@@ -1,0 +1,94 @@
+{
+  "hero": {
+    "badge": "1,080 Collectibles · 10 Editions · The Tienko Collection",
+    "headline1": "A world of coins.",
+    "headline2": "A calendar",
+    "headline3": "of stories.",
+    "subheading": "1,080 collectibles across 10 regional editions. Discover a new coin every day.",
+    "ctaPrimary": "Explore the Collection",
+    "ctaSecondary": "Meet the Curator"
+  },
+  "howItWorks": {
+    "eyebrow": "Getting Started",
+    "heading": "How It Works",
+    "steps": [
+      {
+        "id": "step-01",
+        "step": "01",
+        "title": "Discover Coins",
+        "desc": "Browse 1,080 collectibles across 10 regional editions — each one tied to a real cultural moment."
+      },
+      {
+        "id": "step-02",
+        "step": "02",
+        "title": "Read the Lore",
+        "desc": "Every coin has an origin story and lore entry, narrated by The Curator — an ancient, benevolent AI."
+      },
+      {
+        "id": "step-03",
+        "step": "03",
+        "title": "Build Your Collection",
+        "desc": "Track your progress through the Stash Key system. The more you discover, the deeper the world gets."
+      }
+    ]
+  },
+  "spotlight": {
+    "eyebrow": "Featured Collectible",
+    "undiscoveredLabel": "Undiscovered"
+  },
+  "permanentCoins": {
+    "eyebrow": "Permanent Collection",
+    "heading": "The 12 Permanent Collectibles",
+    "subheading": "These coins are part of the permanent collection. Discover their stories and lore.",
+    "viewAllCta": "Explore All 1,080 Collectibles",
+    "undiscoveredLabel": "Undiscovered",
+    "discoverLabel": "Discover"
+  },
+  "collectorTiers": {
+    "eyebrow": "Collector Tiers",
+    "heading": "How Deep Does It Go?",
+    "subheading": "Discover more collectibles to unlock higher tiers. Each tier is a badge of honour in The Token Game community."
+  },
+  "journey": {
+    "eyebrow": "The Journey",
+    "heading": "Your Path Through The Game",
+    "subheading": "Every collector starts as a Citizen. Where you end up depends on how deep you go.",
+    "stages": [
+      {
+        "id": "stage-01",
+        "stage": "01",
+        "action": "Join a nation, discover your first collectible",
+        "key": "Bronze Key",
+        "unlocks": "Citizen status — you're in the game"
+      },
+      {
+        "id": "stage-02",
+        "stage": "02",
+        "action": "Discover 5 collectibles, complete 3 challenges",
+        "key": "Silver Key",
+        "unlocks": "Right to craft, quest, and compete"
+      },
+      {
+        "id": "stage-03",
+        "stage": "03",
+        "action": "Reach Gold tier, win a War Room battle",
+        "key": "Gold Key",
+        "unlocks": "Nation leadership candidacy"
+      },
+      {
+        "id": "stage-04",
+        "stage": "04",
+        "action": "Lead your nation to a top-3 finish",
+        "key": "Platinum Key",
+        "unlocks": "Hall of Legends nomination"
+      }
+    ]
+  },
+  "bottomCta": {
+    "heading": "Ready to explore? 🪙",
+    "subheading": "1,080 stories are waiting. The Curator has been keeping them safe.",
+    "ctaPrimary": "Explore the Collection",
+    "ctaSecondary": "Meet the Curator"
+  },
+  "disclaimer": "The Token Game is a collectible catalogue. All coins are in-game collectibles with no monetary value, no financial utility, and no investment purpose. This is not financial advice. The Tienko Collection is for entertainment and cultural discovery only."
+}

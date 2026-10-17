@@ -1,0 +1,17 @@
+{
+  "seo": {
+    "title": "Value Packs — The Token Game RPG",
+    "description": "Open RPG value packs to earn cards, XP, and rare abilities in The Token Game."
+  },
+  "hero": {
+    "title": "Value Packs",
+    "subtitle": "Open packs to earn cards, XP, and rare abilities. Higher tiers unlock at higher levels."
+  },
+  "wallet": {
+    "prompt": "Enter your wallet address to open packs"
+  },
+  "modal": {
+    "title": "Pack Opened!",
+    "xpLabel": "XP awarded"
+  }
+}

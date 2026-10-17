@@ -1,0 +1,173 @@
+{
+  "seo": {
+    "title": "Create Your Character — The Token Game",
+    "description": "Choose your class, nation, and identity for The Token Game RPG.",
+    "canonical": "https://thetokengame.com/rpg/create-character",
+    "ogImage": "/media/rpg-character-creation-og.png"
+  },
+  "hero": {
+    "eyebrow": "The Token Game RPG",
+    "title": "Create your character",
+    "subtitle": "Choose a class, pledge to a nation, and begin your collection adventure."
+  },
+  "steps": [
+    {
+      "title": "Choose class",
+      "description": "Select the path that fits your play style.",
+      "id": "HDOx05syqVego7J3Uy7AQ"
+    },
+    {
+      "title": "Choose nation",
+      "description": "Choose the edition you will represent.",
+      "id": "qiNNVx3TtzaMfXmfhyPIN"
+    },
+    {
+      "title": "Name your character",
+      "description": "Set your display name and generate your avatar.",
+      "id": "X1JcqNJS7yTwrgTRTPy3H"
+    }
+  ],
+  "classes": [
+    {
+      "id": "warrior",
+      "name": "Warrior",
+      "description": "Masters of the hold. Warriors earn bonus XP from staking and reduce Stash hold timers.",
+      "bonuses": [
+        "Staking XP +20%",
+        "Stash hold -12h at level 8",
+        "Iron Hands ability"
+      ]
+    },
+    {
+      "id": "mage",
+      "name": "Mage",
+      "description": "Seekers of hidden knowledge. Mages unlock extended lore and see deeper coin backstories.",
+      "bonuses": [
+        "Backstory lore unlocked",
+        "Challenge XP +20%",
+        "Arcane Lore ability"
+      ]
+    },
+    {
+      "id": "merchant",
+      "name": "Merchant",
+      "description": "Deal-makers of the ecosystem. Merchants get pack discounts and trade bonuses.",
+      "bonuses": [
+        "Pack cost -10%",
+        "Trade XP +15%",
+        "Merchant's Eye ability"
+      ]
+    },
+    {
+      "id": "explorer",
+      "name": "Explorer",
+      "description": "First to discover new coins. Explorers get early access to seasonal and edition coins.",
+      "bonuses": [
+        "Early coin access +24h",
+        "Discovery XP +25%",
+        "Pathfinder ability"
+      ]
+    },
+    {
+      "id": "collector",
+      "name": "Collector",
+      "description": "Curators of the rarest cards. Collectors get enhanced Curator AI and inventory bonuses.",
+      "bonuses": [
+        "Curator AI extended",
+        "Inventory +10 slots",
+        "Curator Bond ability"
+      ]
+    }
+  ],
+  "nations": [
+    {
+      "name": "Africa",
+      "flag": "🌍",
+      "id": "eLl5aYQKs65OeMYvn3UsL"
+    },
+    {
+      "name": "Australia",
+      "flag": "🇦🇺",
+      "id": "cZ75UMF7_hi-LPMb2yI0c"
+    },
+    {
+      "name": "China",
+      "flag": "🇨🇳",
+      "id": "bgQFDUboysQ573C6e1GAQ"
+    },
+    {
+      "name": "Europe",
+      "flag": "🇪🇺",
+      "id": "R0oQJh7R9e6EJ50zchTXn"
+    },
+    {
+      "name": "Global",
+      "flag": "🌐",
+      "id": "9BsG8wBX3HXtluBJKlGHg"
+    },
+    {
+      "name": "India",
+      "flag": "🇮🇳",
+      "id": "T78DCMBgFHQRlCFVKq0Sd"
+    },
+    {
+      "name": "Japan",
+      "flag": "🇯🇵",
+      "id": "M5V_IRF5WfkBz5m0i0s_K"
+    },
+    {
+      "name": "Russia",
+      "flag": "🇷🇺",
+      "id": "XqcVlcYYbpiyprcEUBA2B"
+    },
+    {
+      "name": "South America",
+      "flag": "🌎",
+      "id": "QPNgVAbSSkF0mzOp5zvm2"
+    },
+    {
+      "name": "USA",
+      "flag": "🇺🇸",
+      "id": "zi9TZX7HBy-HKe8HU_XHG"
+    },
+    {
+      "name": "Middle East",
+      "flag": "🕌",
+      "id": "mjLJshS_gR5GzfiRO4_8N"
+    },
+    {
+      "name": "Oceania",
+      "flag": "🌊",
+      "id": "vv3wRkrKaTnRuaf1xdTi6"
+    },
+    {
+      "name": "North America",
+      "flag": "🌎",
+      "id": "ztvZSlPoxusxTj4WcUy-e"
+    },
+    {
+      "name": "Central America",
+      "flag": "🌎",
+      "id": "ufM4z9nB2oEhQlCwOcxVq"
+    },
+    {
+      "name": "Arctic",
+      "flag": "❄️",
+      "id": "3vvgdYlCAxCr_cNK_Vaqf"
+    },
+    {
+      "name": "Antarctica",
+      "flag": "🐧",
+      "id": "F4946HM5vbOJkzgMR4x4B"
+    }
+  ],
+  "form": {
+    "displayNameLabel": "Display name",
+    "displayNamePlaceholder": "Enter your display name",
+    "avatarLabel": "Avatar seed",
+    "avatarHint": "Your avatar is generated deterministically from this seed.",
+    "createButton": "Create character",
+    "creatingButton": "Creating character…",
+    "errorMessage": "We could not create your character. Please try again."
+  }
+}

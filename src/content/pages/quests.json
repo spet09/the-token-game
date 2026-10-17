@@ -1,0 +1,38 @@
+{
+  "hero": {
+    "eyebrow": "Quest System",
+    "headline": "Prove your worth.",
+    "headlineAccent": "Earn your legend.",
+    "body": "Quests are the Nexus's way of rewarding the dedicated. Collect coins, craft tiers, stake your holdings, and conquer cross-zone challenges to unlock XP, TKN, HRTG, and legendary badges."
+  },
+  "stats": [
+    { "id": "s1", "value": "30+", "label": "Active quests" },
+    { "id": "s2", "value": "4",   "label": "Tiers" },
+    { "id": "s3", "value": "6",   "label": "Categories" },
+    { "id": "s4", "value": "Season 1", "label": "Current season" }
+  ],
+  "filterLabel": "Filter by category",
+  "emptyState": "No quests match your filters.",
+  "rewardSection": {
+    "headline": "What you earn",
+    "body": "Every quest rewards you with something real — XP that advances your Journey stage, TKN you can craft or trade, HRTG for the long game, and badges that mark your legend permanently."
+  },
+  "rewardDisplay": [
+    { "id": "r1", "icon": "⚡",  "name": "XP",     "type": "xp",    "desc": "Advances your Journey stage and unlocks new RPG abilities." },
+    { "id": "r2", "icon": "🪙",  "name": "TKN",    "type": "tkn",   "desc": "The base currency. Craft into HRTG, GOLD, OASIS, or USGC." },
+    { "id": "r3", "icon": "🏛️", "name": "HRTG",   "type": "hrtg",  "desc": "Heritage coins. Rare, craftable, and worth 100 TKN each." },
+    { "id": "r4", "icon": "🏆",  "name": "Badges", "type": "badge", "desc": "Permanent on-chain markers of legendary achievement." }
+  ],
+  "cta": {
+    "headline": "Ready to start?",
+    "body": "Connect your wallet to track progress across all quests.",
+    "primaryLabel": "Browse all coins",
+    "secondaryLabel": "View crafting"
+  },
+  "tierLabels": {
+    "bronze":    "Bronze",
+    "silver":    "Silver",
+    "gold":      "Gold",
+    "legendary": "Legendary"
+  }
+}

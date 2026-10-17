@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <script>
+      (function () {
+        try {
+          var u = new URL(location.href);
+          if (u.searchParams.has('airoShareToken')) {
+            u.searchParams.delete('airoShareToken');
+            history.replaceState(null, '', u.toString());
+          }
+        } catch (e) {}
+      })();
+    </script>
+    <meta name="referrer" content="same-origin" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.ico" />
+    <link rel="manifest" href="/manifest.json" />
+    <meta name="theme-color" content="#BF5FFF" />
+    <!-- iOS PWA support -->
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="TokenGame" />
+    <link rel="apple-touch-icon" href="/assets/$RESO.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!--app-head-->
+    <script src="/airo-video-slots.js"></script>
+    <script src="/airo-logo-orientation.js"></script>
+    <!-- Tienko Wallet SDK -->
+    <script src="https://tienkowallet.io/tienko-wallet.js" defer></script>
+  </head>
+  <body class="fs-unmask-airo-app-builder">
+    <div id="app" class="fs-unmask-airo-app-builder"><!--app-html--></div>
+    <script type="module" src="/src/main.tsx"></script>
+    <script src="/analytics.js"></script>
+  </body>
+</html>

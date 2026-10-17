@@ -1,0 +1,32 @@
+[
+  {
+    "id": "best-web3-game-solana",
+    "title": "The Best Web3 Game You Haven't Played Yet (And Why It's on Solana)",
+    "slug": "best-web3-game-solana",
+    "excerpt": "Most meme coin projects are one-trick ponies. The Token Game is something else entirely — a full seasonal ecosystem with 212+ coins, crafting, staking, quests, and a War Room.",
+    "publishedAt": "2026-08-11",
+    "published": true,
+    "tags": [
+      "Solana",
+      "Web3 Gaming",
+      "Meme Coins",
+      "DeFi"
+    ],
+    "featuredImage": "/airo-assets/images/blog/best-web3-game-solana"
+  },
+  {
+    "id": "token-game-how-it-works",
+    "title": "212 Seasonal Meme Coins, 16 Global Editions: How The Token Game Works",
+    "slug": "token-game-how-it-works",
+    "excerpt": "Crafting, staking, quests, and a War Room — The Token Game is a full Web3 ecosystem built on Solana. Here's a deep dive into how it all fits together.",
+    "publishedAt": "2026-08-18",
+    "published": true,
+    "tags": [
+      "How It Works",
+      "Crafting",
+      "Staking",
+      "Solana"
+    ],
+    "featuredImage": "/airo-assets/images/blog/token-game-how-it-works"
+  }
+]

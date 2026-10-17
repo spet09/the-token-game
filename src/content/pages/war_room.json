@@ -1,0 +1,69 @@
+{
+  "NATIONS": [
+    {
+      "name": "USA",
+      "flag": "🇺🇸",
+      "id": "MB2ZRrZA3exZRDLSCdlaC"
+    },
+    {
+      "name": "UK",
+      "flag": "🇬🇧",
+      "id": "2ja76mqELVY-teFLOMbAf"
+    },
+    {
+      "name": "India",
+      "flag": "🇮🇳",
+      "id": "9ydtuwL3l5as0vKnn8bZA"
+    },
+    {
+      "name": "Japan",
+      "flag": "🇯🇵",
+      "id": "qtRd5yt90s-mYEbzr0H2x"
+    },
+    {
+      "name": "South Korea",
+      "flag": "🇰🇷",
+      "id": "8CHyZ8pPXqgE1uG_6gn6D"
+    },
+    {
+      "name": "Brazil",
+      "flag": "🇧🇷",
+      "id": "Xh4n_9EDfHE5x5sPA5Kzx"
+    },
+    {
+      "name": "Turkey",
+      "flag": "🇹🇷",
+      "id": "J0iLwtEMnRqEf9e1XkMvs"
+    },
+    {
+      "name": "Australia",
+      "flag": "🇦🇺",
+      "id": "tkTnhRy7RWQ8Zb6HXgle5"
+    },
+    {
+      "name": "Nigeria",
+      "flag": "🇳🇬",
+      "id": "hbP2l-mlXqY0hA48GXM-I"
+    },
+    {
+      "name": "Russia",
+      "flag": "🇷🇺",
+      "id": "2OwuXn5ux-nLl_aI-SqQf"
+    },
+    {
+      "name": "China",
+      "flag": "🇨🇳",
+      "id": "1RIyLSudpiHgvsUcJVVEL"
+    },
+    {
+      "name": "Europe",
+      "flag": "🇪🇺",
+      "id": "GlwaiAIa8orbAh94n8u9j"
+    },
+    {
+      "name": "Africa",
+      "flag": "🌍",
+      "id": "pYIvFC1EDXYxz0LaITIVH"
+    }
+  ]
+}

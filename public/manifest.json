@@ -1,0 +1,41 @@
+{
+  "name": "The Token Game",
+  "short_name": "TokenGame",
+  "description": "108 coins. 365 days. One rule: easy in, easy out.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0F0A1A",
+  "theme_color": "#BF5FFF",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/assets/$RESO.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/$RESO.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["games", "finance"],
+  "shortcuts": [
+    {
+      "name": "All Coins",
+      "short_name": "Coins",
+      "description": "Browse all 108 coins",
+      "url": "/coins",
+      "icons": [{ "src": "/assets/$RESO.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Leaderboard",
+      "short_name": "Ranks",
+      "description": "See top collectors",
+      "url": "/leaderboard",
+      "icons": [{ "src": "/assets/$RESO.png", "sizes": "192x192" }]
+    }
+  ]
+}
